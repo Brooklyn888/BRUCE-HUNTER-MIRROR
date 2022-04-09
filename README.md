@@ -116,17 +116,6 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 
 
 # Credits
-- [`out386`](https://github.com/out386) heavily inspired from his Telegram Bot written in Typescript
-- [`Izzy12`](https://github.com/lzzy12) for build up of this bot from scratch
-- [`jaskaranSM`](https://github.com/jaskaranSM) for build up of this bot from scratch
-- [`Dank-del`](https://github.com/Dank-del) for base repo
-- [`magneto261290`](https://github.com/magneto261290) for some features
-- [`SVR666`](https://github.com/SVR666) for some features & fixes
-- [`anasty17`](https://github.com/anasty17) for some features & help
-- [`breakdowns`](https://github.com/breakdowns) for slam-mirrorbot
-- [`zevtyardt`](https://github.com/zevtyardt) for some direct links
-- [`xyou365`](https://github.com/xyou365) for Service Accounts script.
-- [`Gautam1834`](https://github.com/Gautam1834) for lot of features.
-
-
+- [Bruce](https://github.com/Brooklyn888)
+- [ToxyTech](https://github.com/dp0148755)
   

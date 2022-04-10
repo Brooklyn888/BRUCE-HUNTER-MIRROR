@@ -1,6 +1,6 @@
 # <b>MIRROR HUNTER</b>
 
-![MIRROR HUNTER](https://media.giphy.com/media/dikubVwoUUBxLgpraV/giphy.gif?cid=790b7611c1fd9acab35e7fc75f7447316865d93043fc77b3&rid=giphy.gif&ct=s)
+![MONSTER HUNTER](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeEaUr5VjFLdcypS6nL56NafDt5m3RjUebw&usqp=CAU)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/anime-republic/MIRROR-HUNTER?color=blue&style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/anime-republic/MIRROR-HUNTER?color=green&style=plastic)

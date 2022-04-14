@@ -108,5 +108,4 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 
 # Credits
 - [Bruce](https://github.com/Brooklyn888)
-- [ToxyTech](https://github.com/dp0148755)
   

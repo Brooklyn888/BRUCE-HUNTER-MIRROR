@@ -9,16 +9,7 @@
 
 **This Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
-# Repo last commit
-| Repo Name  | Status | Commit |
-| ------------- | ------------- | ------------- |
-| MIRROR HUNTER | ![Docker Pulls](https://img.shields.io/github/last-commit/anime-republic/MIRROR-HUNTER?style==for-the-badge) | ![Docker Pulls](https://img.shields.io/github/commit-activity/w/anime-republic/Mirror-New?style=flat-square) |
-
-# Others Repo
-| Repo Name  | Status | Commit |
-| ------------- | ------------- | ------------- |
-| SlamDevs  | ![Docker Pulls](https://img.shields.io/github/last-commit/SlamDevs/slam-mirrorbot?style==for-the-badge)  | ![Docker Pulls](https://img.shields.io/github/commit-activity/w/SlamDevs/slam-mirrorbot?style=flat-square) |
-| MirrorX  | ![Docker Pulls](https://img.shields.io/github/last-commit/iamLiquidX/MirrorX?style==for-the-badge)  | ![Docker Pulls](https://img.shields.io/github/commit-activity/w/iamLiquidX/MirrorX?style=flat-square) |
+https://camo.githubusercontent.com/b2fb65ec9c97af61ed596d81d306ed6a5cae4f074edda24fbf6ae5f44a6b498d/68747470733a2f2f74656c656772612e70682f66696c652f6431386661376661333366323666373333616462392e706e67
 
 # Features supported:
 <details>

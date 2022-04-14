@@ -9,7 +9,7 @@
 
 **This Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
-![https://camo.githubusercontent.com/b2fb65ec9c97af61ed596d81d306ed6a5cae4f074edda24fbf6ae5f44a6b498d/68747470733a2f2f74656c656772612e70682f66696c652f6431386661376661333366323666373333616462392e706e67]
+![Heroku Supported](https://camo.githubusercontent.com/b2fb65ec9c97af61ed596d81d306ed6a5cae4f074edda24fbf6ae5f44a6b498d/68747470733a2f2f74656c656772612e70682f66696c652f6431386661376661333366323666373333616462392e706e67)
 
 # Features supported:
 <details>
